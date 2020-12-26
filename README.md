@@ -32,7 +32,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=javascript)
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=java)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=777BB4)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=php)
-![C](https://img.shields.io/badge/-C-000?&logo=C)]
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 <br />
