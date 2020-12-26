@@ -28,11 +28,11 @@
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=ddc508)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=javascript)
-[![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=007396)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=java)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=PHP)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=php)
-![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C)
+[![Python](https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=ffffff)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=python)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=ffffff)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=javascript)
+[![Java](https://img.shields.io/badge/-Java-007396?&logo=Java&logoColor=ffffff)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=java)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?&logo=PHP&logoColor=ffffff)](https://github.com/vaibhavboliya?tab=repositories&q=&type=&language=php)
+![C](https://img.shields.io/badge/-C-A8B9CC?&logo=C&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=MySQL)
 
 <br />
