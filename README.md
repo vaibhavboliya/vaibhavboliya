@@ -16,17 +16,18 @@
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vaibhavboliya&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+[![vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=vaibhavboliya&theme=xcode)](https://git.io/vaibhavboliya)
 
 ### Contact with me 📝
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-vaibhavboliya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-boliya-3170341a2/)][linkedin]
-[![Instagram Badge](https://img.shields.io/badge/-vaibhav.boliya-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vaibhav.boliya/)](https://instagram.com/kaiwalya.koparkar)
+[![Instagram Badge](https://img.shields.io/badge/-vaibhav.boliya-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vaibhav.boliya/)](https://instagram.com/vaibhav.boliya)
 [![Gmail Badge](https://img.shields.io/badge/-vaibhav.boliya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaibhav.boliya@gmail.com)](mailto:vaibhav.boliy@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-vaibhav's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=[website])][website]
 
-[<img align="left" alt="www.walla.co.il" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>][linkedin]
+<!-- [<img align="left" alt="www.walla.co.il" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>][linkedin] -->
 
 <br />
 
@@ -61,6 +62,11 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <br />
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhavboliya&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavboliya&theme=tokyonight" />
+</p>
 
 
 
