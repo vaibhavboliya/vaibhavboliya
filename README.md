@@ -5,10 +5,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 
-### I'm [Vaibhav Boliya][website] Software Developer
+### I'm [Vaibhav Boliya][website] Software Engineer,Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on Web projects.
-- 🌱 I’m currently learning Data Science and Machine Learning.
+- 🌱 I’m currently learning more about Optimising and Web dev technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - 💬 Ask me about how to stay motivated.
 - ⚡ Fun fact: I love meeting new peoples.
@@ -18,6 +18,12 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vaibhavboliya&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-kaiwalyakoparkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaibhav-boliya-3170341a2/)][linkedin]
+[![Instagram Badge](https://img.shields.io/badge/-vaibhav.boliya-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/vaibhav.boliya/)](https://instagram.com/kaiwalya.koparkar)
+[![Gmail Badge](https://img.shields.io/badge/-vaibhav.boliya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vaibhav.boliya@gmail.com)](mailto:vaibhav.boliy@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Kaiwalya's_Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=[website])][website]
 
 [<img align="left" alt="www.walla.co.il" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/2996/2996826.svg" />][website]
 [<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg"/>][linkedin]
