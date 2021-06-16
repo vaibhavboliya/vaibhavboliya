@@ -2,8 +2,6 @@
 
 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 
 ### I'm [Vaibhav Boliya][website] Software Engineer,Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
