@@ -16,8 +16,6 @@
 [![vaibhav's github activity graph](https://activity-graph.herokuapp.com/graph?username=vaibhavboliya&theme=xcode)](https://git.io/vaibhavboliya)
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=vaibhavboliya&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
 
 ### Contact with me 📝
 
